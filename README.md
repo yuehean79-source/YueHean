@@ -117,7 +117,7 @@
 </div>
 
 <div>
-<div style="font-size: 20px; font-weight: 700; background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">99%</div>
+<div style="font-size: 20px; font-weight: 700; background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">0.9</div>
 <div style="margin-top: 5px; color: #999;">Completion</div>
 </div>
 
