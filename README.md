@@ -1,124 +1,36 @@
 <div align="center">
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #f093fb 100%); padding: 80px 40px; border-radius: 20px; margin-bottom: 30px; position: relative;">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0f172a,50:2563eb,75:7c3aed,100:c026d3&text=YueHean&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Aesthetics%20%7C%20Visual%20Design%20%7C%20Future%20Interface&descAlignY=58&animation=fadeIn"/>
 
-<div style="position: absolute; top: 20px; right: 30px; display: flex; gap: 10px;">
-<div style="background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 20px; border: 1px solid rgba(255,255,255,0.4);">
-<span style="font-size: 11px; color: white; font-weight: 600;">1.02</span>
-</div>
-<div style="background: rgba(255,215,0,0.2); padding: 6px 12px; border-radius: 20px; border: 1px solid rgba(255,215,0,0.4);">
-<span style="font-size: 11px; color: #FFD700; font-weight: 600;">欢迎访问（果然看起来更好一些）😃</span>
-</div>
-</div>
+<br>
 
-# <span style="font-size: 56px; color: white; font-weight: 700; letter-spacing: 3px;">YUEHAN</span>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=800&color=7AA2FF&center=true&vCenter=true&random=false&width=850&lines=Visual+Designer;AI+Art+Creator;Future+Aesthetic+Explorer;YHA+Project;Creating+Digital+Emotion"/>
 
-<div style="height: 3px; width: 120px; background: linear-gradient(90deg, rgba(255,255,255,0.5) 0%, rgba(255,255,255,0.8) 50%, rgba(255,255,255,0.5) 100%); margin: 30px auto; border-radius: 2px;"></div>
+<br><br>
 
-<span style="font-size: 14px; color: rgba(255,255,255,0.9); letter-spacing: 2px;">PERSONAL PROFILE</span>
-
-<div style="margin-top: 20px; font-size: 12px; color: rgba(255,255,255,0.8); display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-<span>ID: YH-2026-1398</span>
-<span>•</span>
-<span>Status: Active</span>
-<span>•</span>
-<span>Tier: Premium</span>
-</div>
+<img src="https://img.shields.io/github/followers/yuehean79-source?style=for-the-badge&logo=github&labelColor=09090b&color=2563eb">
+<img src="https://img.shields.io/github/stars/yuehean79-source/YueHean?style=for-the-badge&logo=starship&labelColor=09090b&color=a855f7">
+<img src="https://img.shields.io/badge/Focus-AI%20Art-2563eb?style=for-the-badge&labelColor=09090b">
+<img src="https://img.shields.io/badge/Style-Future%20Aesthetic-a855f7?style=for-the-badge&labelColor=09090b">
 
 </div>
 
 ---
 
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.08) 0%, rgba(240, 147, 251, 0.08) 100%); border: 1px solid rgba(102, 126, 234, 0.2); border-radius: 15px; padding: 30px; margin-bottom: 30px;">
+# 🌌 About Me
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px;">
-<span style="font-size: 14px; color: #333; font-weight: 600; letter-spacing: 1px;">VERIFICATION DETAILS</span>
-<span style="font-size: 12px; color: #28a745; font-weight: 700;">ALL VERIFIED</span>
-</div>
+```yaml
+Name: YueHean
+Alias: YHA
+Focus:
+  - Artificial Aesthetics
+  - Visual Design
+  - AI Art
+  - Digital Emotion
+  - Future Interface
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px; font-size: 12px; color: #666;">
-<div style="display: flex; align-items: center; gap: 8px;">
-<span style="color: #28a745; font-weight: 700;">✓</span>
-<span>Identity Verified</span>
-</div>
-<div style="display: flex; align-items: center; gap: 8px;">
-<span style="color: #28a745; font-weight: 700;">✓</span>
-<span>Account Authentic</span>
-</div>
-<div style="display: flex; align-items: center; gap: 8px;">
-<span style="color: #28a745; font-weight: 700;">✓</span>
-<span>Profile Certified</span>
-</div>
-<div style="display: flex; align-items: center; gap: 8px;">
-<span style="color: #28a745; font-weight: 700;">✓</span>
-<span>Data Protected</span>
-</div>
-</div>
-
-</div>
-
----
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; padding: 20px 0;">
-
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(118, 75, 162, 0.15) 100%); border: 1.5px solid rgba(102, 126, 234, 0.3); border-radius: 15px; padding: 35px; text-align: center; backdrop-filter: blur(10px); position: relative;">
-
-<div style="position: absolute; top: 10px; right: 12px; width: 6px; height: 6px; background: #28a745; border-radius: 50%;"></div>
-
-<span style="font-size: 12px; color: #999; letter-spacing: 1.5px; text-transform: uppercase;">Age</span>
-
-<div style="margin: 15px 0;"></div>
-
-<span style="font-size: 42px; font-weight: 700; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">13</span>
-
-<div style="margin-top: 12px; font-size: 10px; color: #999;">Verified Age</div>
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(118, 75, 162, 0.15) 0%, rgba(240, 147, 251, 0.15) 100%); border: 1.5px solid rgba(118, 75, 162, 0.3); border-radius: 15px; padding: 35px; text-align: center; backdrop-filter: blur(10px); position: relative;">
-
-<div style="position: absolute; top: 10px; right: 12px; width: 6px; height: 6px; background: #28a745; border-radius: 50%;"></div>
-
-<span style="font-size: 12px; color: #999; letter-spacing: 1.5px; text-transform: uppercase;">Gender</span>
-
-<div style="margin: 15px 0;"></div>
-
-<span style="font-size: 42px; font-weight: 700; background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Male</span>
-
-<div style="margin-top: 12px; font-size: 10px; color: #999;">Official Record</div>
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(240, 147, 251, 0.15) 0%, rgba(102, 126, 234, 0.15) 100%); border: 1.5px solid rgba(240, 147, 251, 0.3); border-radius: 15px; padding: 35px; text-align: center; backdrop-filter: blur(10px); position: relative;">
-
-<div style="position: absolute; top: 10px; right: 12px; width: 6px; height: 6px; background: #28a745; border-radius: 50%;"></div>
-
-<span style="font-size: 12px; color: #999; letter-spacing: 1.5px; text-transform: uppercase;">Location</span>
-
-<div style="margin: 15px 0;"></div>
-
-<span style="font-size: 42px; font-weight: 700; background: linear-gradient(135deg, #f093fb 0%, #667eea 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Hebei</span>
-
-<div style="margin-top: 12px; font-size: 10px; color: #999;">Confirmed</div>
-
-</div>
-
-</div>
-
----
-
-<div style="text-align: center; margin-top: 40px; padding: 25px; border-top: 1px solid rgba(0,0,0,0.1); border-bottom: 1px solid rgba(0,0,0,0.1);">
-
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 15px; flex-wrap: wrap; font-size: 11px; color: #999; letter-spacing: 0.5px;">
-<span>Certificate ID: CERT-2026-67890</span>
-<span>•</span>
-<span>Certified By: Global Auth System</span>
-<span>•</span>
-<span>Expires: 2027</span>
-</div>
-
-<span style="font-size: 12px; color: #999; letter-spacing: 1px;">Personal Profile © 2026 | All Rights Reserved</span>
-
-<div style="margin-top: 12px; font-size: 10px; color: #bbb; font-style: italic;">This profile has been officially registered and verified</div>
-
-</div>
+Style:
+  - Minimalism
+  - Cyber Atmosphere
+  - Emotional Visuals
+  - Light & Shadow
