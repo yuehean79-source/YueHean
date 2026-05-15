@@ -7,7 +7,7 @@
 <span style="font-size: 11px; color: white; font-weight: 600;">1.02</span>
 </div>
 <div style="background: rgba(255,215,0,0.2); padding: 6px 12px; border-radius: 20px; border: 1px solid rgba(255,215,0,0.4);">
-<span style="font-size: 11px; color: #FFD700; font-weight: 600;">ELITE</span>
+<span style="font-size: 11px; color: #FFD700; font-weight: 600;">欢迎访问（果然看起来更好一些）😃</span>
 </div>
 </div>
 
