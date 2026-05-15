@@ -107,31 +107,6 @@
 
 ---
 
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.08) 0%, rgba(240, 147, 251, 0.08) 100%); border: 1px solid rgba(102, 126, 234, 0.15); border-radius: 12px; padding: 20px; margin: 30px 0;">
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; text-align: center; font-size: 12px; color: #666;">
-
-<div>
-<div style="font-size: 20px; font-weight: 700; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">A+</div>
-<div style="margin-top: 5px; color: #999;">Profile Score</div>
-</div>
-
-<div>
-<div style="font-size: 20px; font-weight: 700; background: linear-gradient(135deg, #764ba2 0%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">0.9</div>
-<div style="margin-top: 5px; color: #999;">Completion</div>
-</div>
-
-<div>
-<div style="font-size: 20px; font-weight: 700; background: linear-gradient(135deg, #f093fb 0%, #667eea 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">2026</div>
-<div style="margin-top: 5px; color: #999;">Member Since</div>
-</div>
-
-</div>
-
-</div>
-
----
-
 <div style="text-align: center; margin-top: 40px; padding: 25px; border-top: 1px solid rgba(0,0,0,0.1); border-bottom: 1px solid rgba(0,0,0,0.1);">
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 15px; flex-wrap: wrap; font-size: 11px; color: #999; letter-spacing: 0.5px;">
