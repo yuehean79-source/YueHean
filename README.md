@@ -52,6 +52,6 @@
 
 <div style="text-align: center; margin-top: 40px; padding-top: 30px; border-top: 1px solid rgba(0,0,0,0.1);">
 
-<span style="font-size: 13px; color: #999; letter-spacing: 1px;">Personal Profile © 2026</span>
+<span style="font-size: 13px; color: #999; letter-spacing: 1px;">Personal Profile © 2026 YHA</span>
 
 </div>
