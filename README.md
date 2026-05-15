@@ -1,6 +1,6 @@
 <div align="center">
 
-# <span style="font-size:48px; color:#1e88e5; font-weight:bold;">👋 YUEHAN</span>
+# <span style="font-size:48px; color:#1e88e5; font-weight:bold;"> YUEHAN</span>
 
 <span style="font-size:20px; color:#666; letter-spacing:2px;">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
 
@@ -8,23 +8,23 @@
 
 ---
 
-## <span style="font-size:32px; color:#1e88e5;">✨ 个人信息</span>
+## <span style="font-size:32px; color:#1e88e5;"> 个人信息</span>
 
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; color: white;">
 
-### <span style="font-size:24px;">👤 基础资料</span>
+### <span style="font-size:24px;"> 基础信息</span>
 
 | 属性 | 详情 |
 |------|------|
 | <span style="font-size:18px; font-weight:bold;">年龄</span> | <span style="font-size:20px; color:#FFD700;">13 岁</span> |
-| <span style="font-size:18px; font-weight:bold;">性别</span> | <span style="font-size:20px; color:#FFD700;">👨 男</span> |
-| <span style="font-size:18px; font-weight:bold;">现居地</span> | <span style="font-size:20px; color:#FFD700;">📍 河北</span> |
+| <span style="font-size:18px; font-weight:bold;">性别</span> | <span style="font-size:20px; color:#FFD700;"> 男</span> |
+| <span style="font-size:18px; font-weight:bold;">现居地</span> | <span style="font-size:20px; color:#FFD700;"> 河北</span> |
 
 </div>
 
 ---
 
-## <span style="font-size:32px; color:#1e88e5;">💫 爱好与兴趣</span>
+## <span style="font-size:32px; color:#1e88e5;">爱好与兴趣</span>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
 
